@@ -19,10 +19,13 @@ public class forloops
 				
 			}
 		private static void challenge2()
-			{
-              
-				
-				
+			{ 
+				for(int i=2; i<=20; i=i+2)
+					{
+						System.out.println(i + ".I Love Mullen");
+					}
+					
+              	
 			}
 		private static void challenge3()
 			{
