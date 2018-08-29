@@ -12,7 +12,7 @@ public class forloops
 
 		private static void challenge1()
 			{
-				for (int i=1; i<=5; i++)
+				for(int i=1; i<=5; i++)
 					{
 						System.out.println(i);
 					}
@@ -20,6 +20,7 @@ public class forloops
 			}
 		private static void challenge2()
 			{
+              
 				
 				
 			}
